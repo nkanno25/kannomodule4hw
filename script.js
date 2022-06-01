@@ -29,7 +29,7 @@ savebtn.addEventListener("click", function(){
 var questions = [
     {
         question: "On what NBA team does Luka Doncic play?",
-        choices: ["Dallas Mavericks", "Los Angeles Lakers", "Golden State Warriors", "Boston Celtics"],
+        choices: ["Dallas Mavericks", "Sacramento Kings", "Golden State Warriors", "Boston Celtics"],
         correct: "Dallas Mavericks"
     },
     {
